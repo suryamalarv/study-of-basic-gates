@@ -1,4 +1,8 @@
 ### study-of-basic-gates
+### EXP NO:01-Study of basic digital IC-s and vertiffication of truth tables for different logic gates realization.
+
+**NAME:SURYAMALARV**
+**REF:212223230224**
 
 **AIM:** 
 
@@ -7,6 +11,7 @@ To study and verify the truth table of logic gates in Quartus II using Verilog p
 **Equipments Required:**
 
 Software – Quartus prime 
+
 
 **Theory**
 
@@ -66,14 +71,44 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
+ Developed by: SURYAMALARV
+ RegisterNumber: 212223230224
+ ```
 
-**RTL realization Output:** 
+  module logic gates ( a,b,y1,y2,y3,y4,y5,y6,y7);
+ input a,b;
+ output y1,y2,y3,y4,y5,y6,y7;
+ and (y1,a,b);
+ or (y2,a,b);
+ not (y3,a);
+ xor (y4,a,b);
+ nand (y5,a,b);
+ nor (y6,a,b);
+ xnor ( y7,a,b);
+ endmodule
+ ```
 
-**RTL**
+
+
+**RTL realization Output:**
+![logic gates](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/1bb850cc-8736-486d-9cf6-8a33cc7252b1)
+
+
+
+**Timimg Diagram**
+![waveform](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/daacfad0-4b43-48f9-a833-e12ec090aa19)
+
+
+
+
+
+**Truthtable**
+
+![truth table](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/accd16e1-8eef-477c-b010-4da485805f13)
+
+
+
 
 **Result:**
-
+Thus the different digital IC's are studied and the truth table for different logic gates are verified.
 
