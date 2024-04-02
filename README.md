@@ -91,24 +91,19 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **RTL realization Output:**
 
-
-![logic gates](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/1bb850cc-8736-486d-9cf6-8a33cc7252b1)..
+![Screenshot 2024-04-02 093143](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/bc0242b8-5b58-4606-ae63-da594019276e)
 
 
 
 **Timimg Diagram**
 
-
-
-![waveform](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/daacfad0-4b43-48f9-a833-e12ec090aa19)
-
+![Screenshot 2024-04-02 093111](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/8fab04ae-087d-4e4b-be08-83756de647c8)
 
 
 
 
 **Truthtable**
-
-![truth table](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/accd16e1-8eef-477c-b010-4da485805f13)
+![Screenshot 2024-04-02 093045](https://github.com/suryamalarv/study-of-basic-gates/assets/145742486/60011e51-12f5-4680-a706-3aaa3a2daa67)
 
 
 
